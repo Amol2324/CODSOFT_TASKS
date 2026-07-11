@@ -241,7 +241,3 @@ This project helped strengthen my understanding of how machine learning can be a
 ## Author
 
 Amol Kainthola
-
-B.Tech Computer Science Engineering
-
-Machine Learning Enthusiast
